@@ -1,0 +1,15 @@
+smbclient
+os
+datetime
+getpass
+subprocess
+time
+re
+Tix
+glob
+Tkinter
+ttk
+tkMessageBox
+soldier
+operator
+tkFileDialog
